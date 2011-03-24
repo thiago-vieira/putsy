@@ -1,1 +1,7 @@
 puts in yellow, only.
+
+Using
+=====
+
+gem install putsy
+
