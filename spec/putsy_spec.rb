@@ -1,5 +1,4 @@
 require File.join(File.dirname(__FILE__), '..', 'lib', 'putsy')
-require 'ruby-debug'
 
 describe "putsy" do
 
