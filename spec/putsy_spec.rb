@@ -7,7 +7,7 @@ describe "putsy" do
   end
 
   it "should appear in yellow" do
-    output { putsy "Hello!" }.should == "\e[33m\e[1mHello!\e[0m\n"
+    output { putsy "Hello!" }.should == "\e[33m\e[1m\"Hello!\"\e[0m\n"
   end
 
 end
