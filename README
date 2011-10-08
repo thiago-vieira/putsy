@@ -1,7 +1,12 @@
 puts in yellow, only.
 
+Install
+=======
+
+gem install putsy
+
 Using
 =====
 
-gem install putsy
+putsy "foo yellow"
 
